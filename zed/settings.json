@@ -17,5 +17,11 @@
     "mode": "system",
     "light": "One Light",
     "dark": "One Dark"
+  },
+  "autosave": "on_focus_change",
+  "terminal": {
+    "shell": {
+      "program": "/opt/homebrew/bin/nu"
+    }
   }
 }
